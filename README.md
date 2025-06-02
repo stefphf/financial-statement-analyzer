@@ -23,7 +23,7 @@
 - Python 3.8 или новее
 - Установленный pip
 
-[Установить Python Можно на официальном сайте](https://www.python.org/downloads/ "Всплывающая подсказка")
+[Установить Python Можно на официальном сайте](https://www.python.org/downloads/ "python.org")
 
 ### Инструкция по установке
 
