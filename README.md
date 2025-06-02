@@ -28,6 +28,8 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/stefphf/financial-statement-analyzer.git
+```
+```bash
 cd financial-statement-analyzer
 ```
 
